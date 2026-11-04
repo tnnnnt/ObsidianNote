@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/array.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "array"
+              "title": "Obsidian"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "e55ffd6cf6a68d9a",
@@ -187,9 +187,20 @@
   },
   "active": "c70fca6aeae98144",
   "lastOpenFiles": [
+    "VRC改模.md",
+    "Obsidian.md",
+    "Templates/0.md",
+    "购物攻略.md",
+    "Markdown.md",
+    "Index.md",
+    "C++/class.md",
+    "C++.md",
+    "C++/lambda.md",
+    "C++/mutable.md",
+    "C++/函数指针.md",
+    "C++/array.md",
     "C++/auto.md",
     "C++/成员初始化列表.md",
-    "C++.md",
     "C++/宏.md",
     "C++/attachments/Pasted image 20261024164930.png",
     "C++/attachments/Pasted image 20261024164837.png",
@@ -208,21 +219,10 @@
     "VRC改模/attachments/Pasted image 20260926141720.png",
     "VRC改模/attachments/Pasted image 20260926141445.png",
     "VRC改模/attachments/Pasted image 20260926140957.png",
-    "VRC改模.md",
     "VRC改模/模型选购指南.md",
     "[BOOTH.md",
-    "Obsidian.md",
-    "Index.md",
-    "购物攻略.md",
     "VRC改模/衣服转换系数.md",
     "VRC改模/致谢.md",
-    "VRC改模/Scene窗口.md",
-    "VRC改模/上传报错.md",
-    "git.md",
-    "VRC改模/VRChat SDK控制面板.md",
-    "VRC改模/预制件.md",
-    "VRC改模/Inspector窗口.md",
-    "购物攻略/冲牙器.md",
     "C++/attachments",
     "VRC改模/attachments",
     "购物攻略",

@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "fd19376e45b985ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40d0c57c7af796d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e47bdb1372e4fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24dca4f3178aa552",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de125dc192247d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbdc76457e5643f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fc0899ade26c460d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3c448cea28d140d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "e55ffd6cf6a68d9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd8aa285a69d784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501f05e420290c85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/欢迎来到C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e951df1996376702",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Obsidian 的出链列表"
+            }
+          },
+          {
+            "id": "207a9936161693a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7d7dc745bdfba182",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "22421430530b8c48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1e47bdb1372e4fcd",
+  "lastOpenFiles": [
+    "C++/欢迎来到C++.md",
+    "C++.md",
+    "C++/C++变量.md",
+    "C++/调试与VisualStudio配置.md",
+    "C++/C++编译链接流程.md",
+    "C++/this.md",
+    "C++/placement new.md",
+    "C++/安装C++.md",
+    "学习看板.md",
+    "_restore_cb.py",
+    "C++/成员初始化列表.md",
+    "C++/动态数组.md",
+    "C++/抽象类.md",
+    "C++/纯虚函数.md",
+    "C++/创建和使用库.md",
+    "_to_select.py",
+    "_to_checkbox.py",
+    "_revert_imp.py",
+    "_set_prop.py",
+    "_v.py",
+    "_fix_dup.py",
+    "_add_levels.py",
+    "C++/使用静态库.md",
+    "C++/使用动态库.md",
+    "C++/C++头文件.md",
+    "_verify.py",
+    "C++/堆与栈内存比较.md",
+    "C++/多返回值.md",
+    "C++/stdvector优化.md",
+    "C++/字符串字面量.md",
+    "C++/类与结构体对比.md",
+    "C++/引用.md",
+    "C++/控制流.md",
+    "C++/C++函数.md",
+    "_gen_notes.py",
+    "C++/指针.md",
+    "C++/attachments/Pasted image 20260901222006.png",
+    "C++/attachments/Pasted image 20261024164930.png",
+    "C++/attachments/Pasted image 20261024164837.png",
+    "VRC改模/attachments/Pasted image 20260927133500.png",
+    "VRC改模/attachments/Pasted image 20260927114700.png",
+    "VRC改模/attachments/Pasted image 20260927113534.png",
+    "VRC改模/attachments/Pasted image 20260927113211.png",
+    "VRC改模/attachments/Pasted image 20260927113113.png",
+    "VRC改模/attachments/Pasted image 20260926141720.png",
+    "VRC改模/attachments/Pasted image 20260926141445.png",
+    "未命名.canvas"
+  ]
+}
