@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "C++/复制与拷贝构造函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "复制与拷贝构造函数"
             }
           }
         ]
@@ -187,9 +187,22 @@
   },
   "active": "1e47bdb1372e4fcd",
   "lastOpenFiles": [
-    "C++/欢迎来到C++.md",
     "C++.md",
+    "C++/对象生存期.md",
+    "C++/隐式构造函数.md",
+    "C++/创建并初始化对象.md",
+    "C++/成员初始化列表.md",
+    "C++/析构函数.md",
+    "C++/构造函数.md",
+    "C++/类与结构体对比.md",
+    "C++/class.md",
+    "C++/指针.md",
+    "C++/引用.md",
+    "C++/控制流.md",
+    "C++/C++头文件.md",
+    "C++/C++函数.md",
     "C++/C++变量.md",
+    "C++/欢迎来到C++.md",
     "C++/调试与VisualStudio配置.md",
     "C++/C++编译链接流程.md",
     "C++/this.md",
@@ -197,7 +210,6 @@
     "C++/安装C++.md",
     "学习看板.md",
     "_restore_cb.py",
-    "C++/成员初始化列表.md",
     "C++/动态数组.md",
     "C++/抽象类.md",
     "C++/纯虚函数.md",
@@ -209,20 +221,8 @@
     "_v.py",
     "_fix_dup.py",
     "_add_levels.py",
-    "C++/使用静态库.md",
-    "C++/使用动态库.md",
-    "C++/C++头文件.md",
     "_verify.py",
-    "C++/堆与栈内存比较.md",
-    "C++/多返回值.md",
-    "C++/stdvector优化.md",
-    "C++/字符串字面量.md",
-    "C++/类与结构体对比.md",
-    "C++/引用.md",
-    "C++/控制流.md",
-    "C++/C++函数.md",
     "_gen_notes.py",
-    "C++/指针.md",
     "C++/attachments/Pasted image 20260901222006.png",
     "C++/attachments/Pasted image 20261024164930.png",
     "C++/attachments/Pasted image 20261024164837.png",

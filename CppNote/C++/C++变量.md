@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "variables"
-  - "变量"
-  - "基本类型"
+  - variables
+  - 变量
+  - 基本类型
 重要程度: 核心
-未学: true
+未学: false
 会看: false
 会写: false
-熟练: false
+熟练: true
 精通: false
 ---
 变量是内存中一块**带名字、带类型**的存储。C++ 是静态类型语言，声明时必须确定类型。

@@ -2,10 +2,10 @@
 aliases:
   - 类
 重要程度: 核心
-未学: true
+未学: false
 会看: false
 会写: false
-熟练: false
+熟练: true
 精通: false
 ---
 ```cpp

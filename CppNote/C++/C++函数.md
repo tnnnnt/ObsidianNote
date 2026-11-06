@@ -1,14 +1,14 @@
 ---
 aliases:
-  - "functions"
-  - "函数"
-  - "function"
+  - functions
+  - 函数
+  - function
 重要程度: 核心
-未学: true
+未学: false
 会看: false
 会写: false
 熟练: false
-精通: false
+精通: true
 ---
 函数是可复用的代码块，由返回类型、名称、参数列表、函数体组成。
 

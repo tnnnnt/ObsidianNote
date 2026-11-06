@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "header files"
-  - "头文件"
-  - "include"
+  - header files
+  - 头文件
+  - include
 重要程度: 重要
-未学: true
+未学: false
 会看: false
 会写: false
-熟练: false
+熟练: true
 精通: false
 ---
 头文件（`.h` / `.hpp`）用于**声明**接口（函数、类、常量），让其他 `.cpp` 在编译前知道符号长什么样。
